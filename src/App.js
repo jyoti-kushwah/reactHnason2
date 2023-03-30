@@ -8,8 +8,7 @@ function App() {
 
     <div className="App">
     <h1 style={{backgroundColor:'purple',color:'red'}}>EMPLOYESS FEEDBACK FORM</h1>
-  
-     <ClassCmp/>
+    <ClassCmp/>
     </div>
   );
 }
