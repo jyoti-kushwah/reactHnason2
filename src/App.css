@@ -1,7 +1,86 @@
-.App {
+body{
+   text-align: center;
+   background-image:linear-gradient(to left,white,pink);
+}
+/* .App {
   text-align: center;
+  background-image: linear-gradient(pink,white);
+} */
+.jyt-ti{
+  font-size: 40px;
+  color: rgb(20, 16, 236);
+  margin-left: 20px;
+}
+.name-me{
+ 
+  width: 250px;
+  height: 50px;
+  margin-left: 20px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  border: 5px solid greenyellow;
 }
 
+.Dept-te{
+  position: absolute;
+  top:30%;
+  left:25%;
+  font-size: 40px;
+  color: rgb(20, 16, 236);
+  margin-left: 20px;
+}
+.dept{
+  position: absolute;
+  top:30%;
+  left:44%;
+  width: 250px;
+  height: 50px; 
+  /* margin-left: 20px; */
+  border-radius: 25px;
+  /* margin-bottom: 20px; */
+  border: 5px solid greenyellow;
+}
+.Rating{
+  position: absolute;
+  top:45%;
+  left:30%;
+  font-size: 40px;
+  color: rgb(20, 16, 236);
+  margin-left: 15px;
+}
+.rating{
+  position: absolute;
+  top: 45%;
+  left:43%;
+  width: 250px;
+  height: 50px; 
+  /* margin-left: 20px; */
+  border-radius: 25px;
+  /* margin-bottom: 20px; */
+  border: 5px solid greenyellow;
+}
+.Submit{
+  position: absolute;
+  top:60%;
+  left:35%;
+  width: 250px;
+  height: 60px;
+  border-radius: 25px;
+  border:5px solid greenyellow;
+  background-color: white;
+
+}
+.conic{
+  position: absolute;
+  top: 70%;
+  left: 10px;
+  width: 70%;
+  height: 70%;
+  background-color: blue;
+  border-radius: 25px;
+  border: 5px solid greenyellow;
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
